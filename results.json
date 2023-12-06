@@ -1,0 +1,29 @@
+[
+    {
+        "eval_loss": 0.7029798626899719,
+        "eval_accuracy": 0.6724,
+        "eval_runtime": 5331.6887,
+        "eval_samples_per_second": 3.751,
+        "eval_steps_per_second": 0.234,
+        "epoch": 10.0
+    },
+
+    {
+        "experiment": "baseline",
+        "eval_accuracy": 0.6825,
+        "epoch": 5.0
+    },
+
+    {
+        "experiment": "EDA",
+        "eval_accuracy": 0.689,
+        "epoch": 5.0
+    },
+
+    {
+        "experiment": "Backtranslation",
+        "eval_accuracy": 0.681,
+        "epoch": 5.0
+    }
+
+]
